@@ -1,6 +1,8 @@
 name: 'Simple Echo Test'
 description: 'A minimal action that echoes a message'
-
+branding:
+  icon: 'code'
+  color: 'orange'
 inputs:
   message:
     description: 'Message to echo'
